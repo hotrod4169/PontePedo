@@ -3,7 +3,7 @@
 
 	<name>PontePedo</name>
 	<description>juego de beber</description>
-	<author href="http://twitter.com/blackbearapps" email="blackbearapps@gmail.com">Fernando Angli</author>	<gap:platforms>
+	<author href="http://twitter.com/blackbearapps" email="blackbearapps@gmail.com">BlackBear Apps</author>	<gap:platforms>
 		<gap:platform name="ios" />
 		<gap:platform name="android" />
 		<gap:platform name="webos" />
